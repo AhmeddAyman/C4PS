@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sum Even Numbers From 1 to N", "Sum Even Numbers From 1 to N\Sum Even Numbers From 1 to N.vcxproj", "{B77853C3-0249-4EAE-A6E0-5CC692C4986B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B77853C3-0249-4EAE-A6E0-5CC692C4986B}.Debug|x64.ActiveCfg = Debug|x64
+		{B77853C3-0249-4EAE-A6E0-5CC692C4986B}.Debug|x64.Build.0 = Debug|x64
+		{B77853C3-0249-4EAE-A6E0-5CC692C4986B}.Debug|x86.ActiveCfg = Debug|Win32
+		{B77853C3-0249-4EAE-A6E0-5CC692C4986B}.Debug|x86.Build.0 = Debug|Win32
+		{B77853C3-0249-4EAE-A6E0-5CC692C4986B}.Release|x64.ActiveCfg = Release|x64
+		{B77853C3-0249-4EAE-A6E0-5CC692C4986B}.Release|x64.Build.0 = Release|x64
+		{B77853C3-0249-4EAE-A6E0-5CC692C4986B}.Release|x86.ActiveCfg = Release|Win32
+		{B77853C3-0249-4EAE-A6E0-5CC692C4986B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A83332A-85CA-461E-9344-B413650D2A58}
+	EndGlobalSection
+EndGlobal
